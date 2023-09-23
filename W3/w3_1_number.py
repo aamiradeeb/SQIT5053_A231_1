@@ -5,24 +5,31 @@ os.system('clear')
 #os.system('cls') 
 
 # Get user input for integer and floating-point numbers
-a = float(input("Enter a number (x): "))
-b = float(input("Enter another number (y): "))
-c = int(input("Enter an integer (z): "))
+a = float(input("Enter a number (a): "))
+b = float(input("Enter another number (b): "))
+c = int(input("Enter an integer (c): "))
 
 # Perform arithmetic operations
 sum_ab = a + b
 difference_ac = a - c
 product_bc = b * c
 quotient_ab = a / b
-remainder_ab = a % b
+modulus_ab = a % b
 exponentiation_ab = a ** b
+
+
+
+
+
+
+
 
 # Print the results
 print("a + b =", sum_ab)
 print("a - c =", difference_ac)
 print("b * c =", product_bc)
 print("a / b =", quotient_ab)
-print("a % b =", remainder_ab)
+print("a % b =", modulus_ab)
 print("a ** b =", exponentiation_ab)
 
 # Use built-in functions for numerical operations
