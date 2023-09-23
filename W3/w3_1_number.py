@@ -1,5 +1,5 @@
 import os
-#mac
+#mac 
 os.system('clear') 
 #window
 #os.system('cls') 
