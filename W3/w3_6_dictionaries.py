@@ -7,7 +7,7 @@ os.system('clear')
 # Create a dictionary of student information
 student = {
     "name": "Alice",
-    "age": 20,
+    "age": int(20),
     "major": "Computer Science",
     "grades": {
         "math": 95,
