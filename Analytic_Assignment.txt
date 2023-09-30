@@ -1,0 +1,33 @@
+SQIT 5043 	Programming for analytics
+
+Tasks:
+You are required to individually do a  prototype / dashboard using python . 
+The overall project would be 40% with 15% on a Technical Report, 15% on the Prototype/Dashboard and 10% for presentation
+
+Analytic Prototype/Dashboard Project
+An analytic system which includes (1) data retrieval and (2) development of quantitative modelling and 3) Visualisation of the output. Example of analytic system includes; 
+Prediction of stock market based on yahoo finance (use of API) using machine learning
+Consultant selection using AHP
+Timetabling or Scheduling 
+Forecasting dashboard
+Etc.
+
+Dataset: if you’re dealing with Machine Learning type of project, you can use API or Beautifulsoup / Scrapy library. You can also retrieve other dataset such as: 
+
+https://open.dosm.gov.my/ 
+
+https://www.bnm.gov.my/publications/mhs 
+
+https://github.com/public-apis/public-apis 
+
+other open dataset platform  
+
+Bonus marks will be given to projects that utilise web scraping/API, the use of SQL and visualisation. Hence the use of libraries such as Pandas, Matplotlib, Scikit Learn, Numpy and other libraries are an added advantage. Extra points would also be given to projects that possess either commercial value or impact to the community to use.
+
+Deliverables
+Brief Technical Report (Introduction, Problem, Solution, Methodology/Workflow, Result, Conclusion)
+Presentation Slide /  Video Link
+Python Source Code (in Github Link)
+
+Submission Date	:  Last date is end of week 12
+Presentation Date	:  Week 12
