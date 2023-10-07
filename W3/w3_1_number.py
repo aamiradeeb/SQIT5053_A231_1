@@ -17,13 +17,6 @@ quotient_ab = a / b
 modulus_ab = a % b
 exponentiation_ab = a ** b
 
-
-
-
-
-
-
-
 # Print the results
 print("a + b =", sum_ab)
 print("a - c =", difference_ac)
@@ -53,3 +46,6 @@ factorial_c = math.factorial(abs(c))
 print("Square root of a:", square_root_a)
 print("Logarithm base 10 of a:", logarithm_base_10_a)
 print(f"Factorial of |c| ({abs(c)}):", factorial_c)
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

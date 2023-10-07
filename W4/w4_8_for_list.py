@@ -30,3 +30,6 @@ for num in range(initial_value, upper_limit, increment):
     my_list_2.append(num)
 
 print (my_list_2)
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

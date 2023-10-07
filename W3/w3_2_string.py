@@ -43,3 +43,6 @@ print("Does the message contain 'DuniA'? ", contains_DuniA)
 # Replace part of the string
 new_message = message.replace("DuniA", "World")
 print("Updated message:", new_message)
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

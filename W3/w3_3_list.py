@@ -57,3 +57,6 @@ print("Reversed list:", numbers)
 fruits = ["apple", "banana", "cherry", "date"]
 
 print(fruits[0])
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

@@ -16,3 +16,6 @@ for num in numbers:
         print(f"{num} is an odd number.")
 
 print('This show the iteration of for loop in the list and utilized if else conditions')
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

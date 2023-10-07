@@ -15,3 +15,6 @@ while (i<=10):
 	
 j='this show that iteration will stop when i=5'
 print(j)
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

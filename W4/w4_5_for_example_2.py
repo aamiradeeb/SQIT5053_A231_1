@@ -13,3 +13,6 @@ for num in numbers:
     print(f"The square of {num} is {square}")
 
 print('This show the iteration of loop in the list')
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

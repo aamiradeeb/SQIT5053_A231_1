@@ -41,3 +41,6 @@ print("Does it contain 'cherry'? ", contains_cherry)
 print("Number of fruits:", num_fruits)
 print("All fruits:", all_fruits)
 print("Nested tuple:", nested_tuple)
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

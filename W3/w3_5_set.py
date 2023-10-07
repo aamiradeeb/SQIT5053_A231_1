@@ -41,3 +41,6 @@ print("Contains 'orange'? ", contains_orange)
 print("Union of fruits and citrus fruits:", union_fruits_citrus)
 print("Intersection of fruits and citrus fruits:", intersection_fruits_citrus)
 print("Difference between fruits and citrus fruits:", difference_fruits_citrus)
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

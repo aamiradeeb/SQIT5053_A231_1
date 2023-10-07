@@ -14,3 +14,6 @@ while (i<=10):
 	
 j='this show that iteration will continue when it met the condition of i=5 to continue until finish while loop'
 print(j)
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

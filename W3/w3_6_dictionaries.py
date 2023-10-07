@@ -47,3 +47,6 @@ del student["grades"]
 print("\nStudent Information after removing 'grades':")
 for key, value in student.items():
     print(f"{key}: {value}")
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

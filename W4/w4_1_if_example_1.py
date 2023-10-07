@@ -25,3 +25,6 @@ elif a != b:
         print("a is greater than or equal to b.")
 else:
     print("The relationship between a and b is undefined.")
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

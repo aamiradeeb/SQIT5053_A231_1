@@ -7,3 +7,6 @@ def square_perimeter(side):
 
 def triangle_perimeter(a, b, c):
     return a + b + c
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

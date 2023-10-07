@@ -22,3 +22,6 @@ while i < 5:  # Condition could change dynamically
     i += 1
 
 print (my_list)
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

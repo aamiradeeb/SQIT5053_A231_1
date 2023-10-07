@@ -7,3 +7,6 @@ def square_area(side):
 
 def triangle_area(base, height):
     return 0.5 * base * height
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my

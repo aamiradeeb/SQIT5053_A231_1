@@ -48,3 +48,6 @@ while True:
 
 # Display exit message
 print("Thank you for using the Simple Calculator Program. Goodbye!")
+
+# Created by Dr Aamir Adeeb
+# Contact for more info at aamir@uum.edu.my
