@@ -6,6 +6,7 @@ avg_temps = [32, 35, 42, 55, 65, 72, 77, 75, 68, 57, 48, 37]
 temp_error = [3, 3, 2, 2, 1, 1, 1, 1, 2, 2, 3, 3]
 
 plt.figure(figsize=(10, 6))
+
 plt.errorbar(months, avg_temps, yerr=temp_error, fmt='o', color='m', ecolor='g', capsize=5, label='Avg Temp')
 plt.xlabel('Months')
 plt.ylabel('Average Temperature (°F)')

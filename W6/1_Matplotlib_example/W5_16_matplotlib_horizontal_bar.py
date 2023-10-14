@@ -6,7 +6,7 @@ departments = ['HR', 'Sales', 'Engineering', 'Marketing']
 employees = [50, 200, 300, 100]
 
 plt.figure(figsize=(10, 6))
-plt.barh(departments, employees, color=['purple', 'orange', 'cyan', 'magenta'], edgecolor='black', linewidth=1.2, label='Employees')
+plt.barh(departments, employees, color=['purple', 'orange', 'cyan', 'magenta'], edgecolor='black', linewidth=1.2, )
 plt.xlabel('Number of Employees')
 plt.ylabel('Departments')
 plt.title('Number of Employees in Different Departments')
