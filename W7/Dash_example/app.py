@@ -1,5 +1,5 @@
 import dash
-from dash import dcc, html, dash_table, Input, Output
+from dash import dcc, html, dash_table
 import pandas as pd
 import plotly.express as px
 
@@ -24,12 +24,15 @@ app = dash.Dash(__name__)
 # Define layout
 app.layout = html.Div([
     html.H1('Average Total Defect Qty by Date'),
+
+    dcc.Graph(id='time-series-plot', figure=fig),
+
     dash_table.DataTable(
         id='table',
         columns=[{'name': i, 'id': i} for i in df_grouped.columns],
         data=df_grouped.to_dict('records'),
     ),
-    dcc.Graph(id='time-series-plot', figure=fig)
+    
 ])
 
 # Run the app
