@@ -1,12 +1,13 @@
 import requests
 import json
+from pprint import pprint
 
 # API point is from " https://apikijangportal.bnm.gov.my "
 
 # Define the endpoint URL (Uniform Resource Identifier)
 endpoint_url = "https://api.bnm.gov.my/public/fx-turn-over"  
 
-# Define the header parameters
+# Define the header parameters # USE VERSION PYTHON 3.9.18
 headers = {
     "Accept": "application/vnd.BNM.API.v1+json"
 }
@@ -20,6 +21,6 @@ if response.status_code == 200:
     data = json.loads(response.text)
     
     # Print or manipulate the data as needed
-    print(data)
+    pprint(data)
 else:
     print(f"Failed to retrieve data. HTTP Status Code: {response.status_code}")
